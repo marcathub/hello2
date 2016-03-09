@@ -1,4 +1,4 @@
 declare
-v_hello;
+v_hello := 10;
 begin
 end;
